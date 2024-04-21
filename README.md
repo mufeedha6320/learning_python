@@ -1,2 +1,2 @@
 # learning_python
-Doing more with Python from Scrimba. Learn with me! 
+Doing more with Python. Learn with me! 
