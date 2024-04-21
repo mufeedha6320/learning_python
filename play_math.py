@@ -14,4 +14,4 @@ for q in range(no_questions):
     if u_ans == ans:
         score += 1
     end = t()
-print(f'Thank you for playing! \nYou got {score} out of {no_questions} {round(score/no_questions*100)}% correct in {round(end-start,1)')
+print(f'Thank you for playing! \nYou got {score} out of {no_questions} {round(score/no_questions*100)}% correct in {round(end-start,1) seconds')
