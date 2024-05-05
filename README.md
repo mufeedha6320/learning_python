@@ -1,2 +1,3 @@
 # learning_python
-Doing more with Python. Learn with me! 
+Hola folks!!
+Doing littile more with Python. Learn with me! 
